@@ -1,0 +1,5 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1584444459219,1330,Homepage,200,OK,Thread Group 1-1,text,true,,85443,114,1,1,http://apache.org/,827,0,496
+1584444460561,603,Foundation,200,OK,Thread Group 1-1,text,true,,55371,249,1,1,http://apache.org/foundation/,248,0,0
+1584444460561,248,Foundation-0,301,Moved Permanently,Thread Group 1-1,text,true,,572,124,1,1,http://apache.org/foundation,248,0,0
+1584444460814,350,Foundation-1,200,OK,Thread Group 1-1,text,true,,54799,125,1,1,http://apache.org/foundation/,335,0,0
